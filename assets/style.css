@@ -165,11 +165,11 @@
     overflow: auto;
     tab-size: 4;
     padding: 1.2rem 1rem;
-    color: var(--gin);
+    color: var(--white);
     border-radius: 8px;
     /* use linear-gradient() function to create a fading background  */
     background-image: linear-gradient(
-    #e1ad01 0%,
+    #780606 0%,
     #e1ad01ae 100%
     );
     display: flex;
